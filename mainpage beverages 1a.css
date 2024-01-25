@@ -1,0 +1,71 @@
+div.gallery {
+    border: 1px solid white;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid red;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  a:visited {
+    color: rgb(11, 12, 11);
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 25px;
+    float: left;
+    width: 48%;
+	
+  }
+  
+ .intro table, th, td {
+    color: #D7DC83;
+    font-family: century gothic; 
+	border: 1px solid white;
+	border-collapse: seperate;
+	
+ }
+ 
+ .one {
+	font-family: century gothic;
+	color: #D7DC83;
+  }
+		
+
+ h4 {
+	 font-size:25px;
+	 font-family: century gothic;
+     color:#D7DC83;
+ }
+
+  body {
+      background-image: url('coffee house.jpg');
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;  
+	  background-size: cover;
+  }
+  
+  h2 {
+      color: rgb(248, 252, 251)
+      
+  }
+  
+  h1 {
+      color:#D7DC83;
+	  font-family: century gothic;
+	  font-size: 65px;
+  }
+  
+  h3 {
+	  font-size:42px;
+	  font-family: century gothic;
+      color:#D7DC83;
+  }
+  

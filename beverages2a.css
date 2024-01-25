@@ -1,0 +1,63 @@
+h1{
+    color:  #D58C2F;
+    font-family: arial;
+    font-size: 40px;
+    letter-spacing: -1px;
+    text-align: center;
+	text-transform: uppercase;
+}
+
+h2{
+    color: #D58C2F;
+    font-family: arial;
+    font-size: 25px;
+}
+
+.one {
+	font-family: arial;
+}
+
+.two {
+	font-family: arial;
+}
+
+.three {
+	font-family: arial;
+}
+
+.four table, th, td {
+    color: black;
+    font-family: arial; 
+	border: 1px solid black;
+	border-collapse: seperate;
+}
+
+.five input  {
+	
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	resize: none;
+}
+
+.five a { 
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+}
+
+p {
+	font-family: arial;
+}
+
+img{
+    border: solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+body{
+    background-color: #D6F7CA;
+}
