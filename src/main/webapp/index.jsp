@@ -101,9 +101,9 @@ Beverages are an integral part of our lives and we select them for lots of diffe
 
 </body>
 <body>
-<h3>GROUP PROJECT DEVOPS 2024</h3>
+<h3>HANDS ON TEST DEVOPS 2024</h3>
 <div>
-  <h3>Student Name: Ahmad Rias, Ahmad Shahir</h3>
+  <h3>Student Name: Ahmad Shahir</h3>
 </div>
 <div>
   <h4 stype="colour: red">Web App content:</h4>
